@@ -1,0 +1,1 @@
+Implementation and performance comparison of three sorting algorithms in C# (Bubble Sort, Merge Sort, Radix Sort). Includes a practical application solving an optimization problem: finding the minimum cost to purchase items with a "buy K, get 1 free" promotion, tested on datasets up to 10 million elements.

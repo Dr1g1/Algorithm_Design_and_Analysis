@@ -1,0 +1,1 @@
+Graph theory implementation in C# featuring Minimum Spanning Tree (MST) calculation using Prim's algorithm. Includes graph generation with two different topologies (star-like and linear), weighted edge management, and graph transformation operations.

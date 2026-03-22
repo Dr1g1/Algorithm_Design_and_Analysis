@@ -1,0 +1,1 @@
+Implementation of a rectangle cutting problem in C# using three different approaches: Greedy algorithm, Recursive solution, and Dynamic Programming. The program calculates the minimum number of cuts needed to divide a rectangle into squares, comparing algorithmic paradigms and their efficiency.
